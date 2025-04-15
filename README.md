@@ -7,9 +7,6 @@
 Você pode visualizar o projeto em funcionamento aqui:  
 👉 [https://davichechetto.github.io/Chat-de-texto/](https://davichechetto.github.io/Chat-de-texto/)
 
-## 📸 Captura de Tela
-
-![Captura de Tela do Pombo Correio](https://davichechetto.github.io/Chat-de-texto/screenshot.png)
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -20,8 +17,6 @@ Você pode visualizar o projeto em funcionamento aqui:
 ## 🚀 Funcionalidades
 
 - Interface de chat com mensagens simuladas.
-- Opção de iniciar novas conversas.
-- Design responsivo para diferentes dispositivos.
 
 ## 📁 Como Executar Localmente
 
