@@ -110,7 +110,7 @@ main{
     flex: 1;
     padding: 15px;
     overflow-y: scroll;
-    max-height: 412px;
+    max-height: 560px;
 
     display: flex;
     flex-direction: column;
